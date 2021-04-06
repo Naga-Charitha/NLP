@@ -1,4 +1,4 @@
-SENTIMENT ANALYSIS ON AMAZON FINE FOOD REVIEWS
+# SENTIMENT ANALYSIS ON AMAZON FINE FOOD REVIEWS
 
 
 Problem Statement:
@@ -54,3 +54,8 @@ SVM                 | 92.946                | 93.327
 Logistic Regression | 93.138                | 93.384
 
 KNN                 | 84.658                | 86.475
+
+
+Conclusion:
+
+The project results in a large feature file containing predictor variables determined with the techniques of Natural Language Processing and Sentimental evaluations of different words. Finally, we introduced a Logistic Regression based classifier and evaluated the output to differentiate between positive and negative reviews.
