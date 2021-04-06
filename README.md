@@ -17,23 +17,37 @@ Solution:
 
 
 The models that we have applied are:
+
       Decision tree
+      
       Random Forest
+      
       SVM
+      
       KNN
+      
       Logistic Regression
       
 
 
-The following points are the results obtained from analysis.
+The following points are the results obtained from analysis:
+
 -> Out of all models, Logistic regression turns out to have highest accuracy for both vectorization methods.
+
 -> Both SVM and Logistic regression have performed well for the data as they have closest accuracy difference.
+
 -> TF-IDF outperforms Bag-of-bigrams for all the models except for tree based classifiers like Decision Tree and Random Forest.
+
 -> From the SVM feature importance, in the data ‘high recommend’ is the most positive word and ‘Worst’ is the highly negative word.
 
 Classifier          | Bag of Words Accuracy | TF-IDF Accuracy
+
 Random Forest       | 87.064                | 86.797
+
 Decision Tree       | 88.347                | 87.992
+
 SVM                 | 92.946                | 93.327
+
 Logistic Regression | 93.138                | 93.384
+
 KNN                 | 84.658                | 86.475
