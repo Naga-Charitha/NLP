@@ -3,10 +3,15 @@ In today’s world where online shopping has become the most important routine o
 
 
 Solution:
+
 -> We have performed data preprocessing techniques and obtained the statistics of data.
+
 -> We applied visual analysis in the beginning to find out overall dynamics of the data.
+
 -> Implemented vectorization methods like Bag of Words and TF-IDF.
+
 -> Executed supervised and unsupervised machine learning models.
+
 -> Performed Sentiment analysis on the respective models.
 
 
