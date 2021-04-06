@@ -1,4 +1,4 @@
-#SENTIMENT ANALYSIS ON AMAZON FINE FOOD REVIEWS
+# Sentiment Analysis on Amazon finefood reviews
 
 
 Problem Statement:
